@@ -9,7 +9,7 @@ The project involves setting up a Database for library where books are being iss
 1. **Set up a LMS database**: Create and populate a LMS database with the provided Books, members, employee and library data.
 2. **Data Cleaning**: Identify and remove any records with missing or null values.
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
+4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the LMS data.
 
 ## Project Structure
 
