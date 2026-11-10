@@ -19,14 +19,7 @@ The project involves setting up a Database for library where books are being iss
 - **Table Creation**: A table named `books`, 'branch','employees', 'issued_status', 'members' and 'retrun status' to store the resp. data.
 - **Bulk Import**: Perform bulk import of data into the tables.
 
-### 2. Data Exploration & Cleaning
-
-- **Record Count**: Determine the total number of records in the dataset.
-- **Customer Count**: Find out how many unique customers are in the dataset.
-- **Category Count**: Identify all unique product categories in the dataset.
-- **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
-
-### 3. Data Analysis & Findings
+### 2. Data Analysis & Findings
 SQL queries were developed to answer specific business questions:
 
 1. **Write a SQL query to Create a New Book Record -- "978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.')"
